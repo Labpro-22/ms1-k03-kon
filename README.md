@@ -14,6 +14,7 @@ Before writing code, ensure your local environment is set up for CLI Android dev
 
 All code lives inside the `com.kon.nimons360` package.
 
+```text
 app/
 ├── build.gradle.kts           # Module-level build config
 ├── src/main/
@@ -26,6 +27,7 @@ app/
 │       └── values/            # Themes, strings, and colors
 gradle/
 └── libs.versions.toml         # SINGLE SOURCE OF TRUTH for dependency versions
+```
 
 ## Terminal Cheatsheet
 
